@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "Airtravelers";
+  src: url(fonts/airtravelers-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-family: "fff-tusj";
+  src: url(fonts/fff_tusj-webfont.woff) format("woff");
+}
+
+body {
+  font: 18px/36px "Times New Roman", Arial, Helvetica, sans-serif;
+}
+
+/* jumbotron */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(185, 238, 218);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.col-4 p {
+  margin-top: 25px;
+  text-align: justify;
+}
+
+#projects {
+  padding-top: 2rem;
+  background-color: rgb(185, 238, 218);
+}
+
+.col-6 {
+  margin-top: 25px;
+}
+.card-text {
+  text-align: justify;
+  margin-top: 20px;
+}
+
+.col-md-4 img {
+  height: 24rem;
+}
+
+#contact {
+  padding-top: 2rem;
+}
+
+.navbar-brand {
+  font-family: "fff-tusj";
+  font-size: 30px;
+}
+
+.container-fluid .nav-link {
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.col h2 {
+  font-family: "Airtravelers";
+  font-size: 45px;
+}
+
+.display-4 {
+  font-weight: bold;
+}
